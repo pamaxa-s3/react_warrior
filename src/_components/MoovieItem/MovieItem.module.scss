@@ -1,0 +1,47 @@
+.card{
+    margin-bottom: 20px;
+    box-shadow: 0 0 15px 0px #000;
+}
+
+.card_img_top{
+
+}
+
+.card_body{}
+
+.card_title{
+    font-size: 26px;
+    color: #000;
+    font-weight: 700;
+}
+
+/* .row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.vote_average{
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+.reviews{
+    color: #000;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.button_watch{}
+
+.button_remove{}
+
+button + button {
+    margin-left: 20px;
+}
+
+
+
+
+

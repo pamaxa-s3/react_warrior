@@ -1,0 +1,15 @@
+.link {
+    color: green;
+
+    :hover {
+        color: hotpink;
+    }
+
+    &.active {
+        color: darkgoldenrod;
+    }
+}
+
+.link:hover {
+    color: hotpink;
+}
